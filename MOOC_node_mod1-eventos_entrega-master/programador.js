@@ -1,5 +1,6 @@
 // Tarea 1, detalle en documento ReadMe
 
+// const EventEmitter = require('events'); comentamos el require para poder implementar nuestro módulo 
 const EventEmitter = require('./events'); // Tarea 2 El archivo es un módulo CommonJS; se puede convertir a un módulo ES6
 
 // Importar módulo Later.js:
